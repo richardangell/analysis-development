@@ -62,11 +62,13 @@ Case against Gitflow.
 
 
 
-
+## Software versioning
 
 ### [Semantic Versioning 2.0.0](https://semver.org/) Tom Preston-Werner
 
-Software versioning convention
+### [PEP 440 -- Version Identification and Dependency Specification](https://www.python.org/dev/peps/pep-0440/)
+
+
 
 
 ### [Python packaging](https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/)
