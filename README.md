@@ -69,4 +69,6 @@ Case against Gitflow.
 Software versioning convention
 
 
+### [Python packaging](https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/)
+
 
