@@ -59,3 +59,14 @@ Case against Gitflow.
 ### [*A successful Git branching model considered harmful*](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful/) Jussi Judin
 
 Case against Gitflow.
+
+
+
+
+
+### [Semantic Versioning 2.0.0](https://semver.org/) Tom Preston-Werner
+
+Software versioning convention
+
+
+
